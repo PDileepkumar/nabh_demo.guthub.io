@@ -533,8 +533,8 @@ outline: none;
 .header__top{
 	position: relative;
     z-index:9;
-    width: 100%;
-    margin-left: 40px;
+    width: 90%;
+    margin-left: 120px;
     margin-top: 7px;
 }
 .header__fix{
