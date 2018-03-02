@@ -534,7 +534,11 @@ outline: none;
 	position: relative;
     z-index:9;
     width: 90%;
+<<<<<<< HEAD
     margin-left: 100px;
+=======
+    margin-left: 120px;
+>>>>>>> d08bc3e01298fc0758743442c89a0af7eaf28ca7
     margin-top: 7px;
 }
 .header__fix{
